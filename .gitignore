@@ -1,0 +1,46 @@
+# 🌐 FRONTEND (Angular, React, etc.)
+Front/node_modules/
+Front/dist/
+Front/build/
+Front/.env
+Front/.env.local
+Front/.env.production
+Front/.env.development
+
+# ⚙️ BACKEND (Node.js, Express, etc.)
+backend/node_modules/
+backend/dist/
+backend/build/
+backend/.env
+backend/.env.local
+backend/.env.production
+backend/.env.development
+
+# 🧪 Logs e temporários
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 📦 IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# 🗂️ Sistema operacional
+.DS_Store
+Thumbs.db
+
+# 🧪 Test coverage
+coverage/
+.nyc_output/
+
+# 🔧 Misc
+.env
+.env.*
+*.tgz
+*.bak
+*.tmp
