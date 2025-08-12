@@ -1,11 +1,7 @@
 # 🌐 FRONTEND (Angular, React, etc.)
 Front/node_modules/
 Front/dist/
-Front/build/
-Front/.env
-Front/.env.local
-Front/.env.production
-Front/.env.development
+
 
 # ⚙️ BACKEND (Node.js, Express, etc.)
 backend/node_modules/
