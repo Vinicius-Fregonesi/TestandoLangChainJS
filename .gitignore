@@ -1,7 +1,13 @@
-# 🌐 FRONTEND (Angular, React, etc.)
+# 🌐 FRONTEND (em 'Front/')
 Front/node_modules/
+Front/dist/
+Front/build/
+Front/.env
+Front/.env.local
+Front/.env.production
+Front/.env.development
 
-# ⚙️ BACKEND (Node.js, Express, etc.)
+# ⚙️ BACKEND (em 'backend/')
 backend/node_modules/
 backend/dist/
 backend/build/
@@ -33,8 +39,6 @@ coverage/
 .nyc_output/
 
 # 🔧 Misc
-.env
-.env.*
 *.tgz
 *.bak
 *.tmp
